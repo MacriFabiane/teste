@@ -1,2 +1,2 @@
 # teste
-teste do curso do git UTFPR
+Este é um repositório do curso do git UTFPR
